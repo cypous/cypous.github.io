@@ -9,8 +9,9 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
 	</dependencies>
-	<shortDescription>Modern gestures, iPad features, and many unique features but lightweight and less battery drain.</shortDescription>
+	<shortDescription>Bring modern gestures and many unique features to your iPhone.</shortDescription>
 	<descriptionlist>
 		<description>Features:</description>
 		<description><![CDATA[
@@ -43,9 +44,20 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Welcome to HalFipad</description>
 			<image>welcome.png</image>
-		</screenshot>		
+		</screenshot>
+		<screenshot>
+			<image>screen1.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screen2.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screen3.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screen4.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>V3.5.2</change>
