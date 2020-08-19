@@ -10,6 +10,8 @@ Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.little
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
 Filename: debs/com.hius.halfipad_3.5.1_iphoneos-arm.deb
 Size: 53806
+MD5sum: 5efa973fb6580202f1525e65285ab00e
+SHA1: 241706b79a433d4b1b31e4ab630be70fe8714f83
 SHA256: d029febcee006013cf22f6f85c9620e33b5ccd4205c554171b0b03023e1f973a
 
 Package: com.hius.halfipad
@@ -24,4 +26,6 @@ Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.little
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
 Filename: debs/com.hius.halfipad_3.5.2_iphoneos-arm.deb
 Size: 53696
+MD5sum: abb7fd8dc179ff83d432ce59be727788
+SHA1: ad939e6c27b596856ed4c102a7126d961def5003
 SHA256: 8f15188fbfdf3c5c8e1f0e216c882f31e5e25cae271aa64999da7207ce97c0c3
