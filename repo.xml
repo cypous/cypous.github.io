@@ -8,12 +8,12 @@
 		<link>
 			<name>Github</name> 
 			<url>https://github.com/v-hius/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<iconclass>fa fa-github</iconclass>
 		</link>
 		<link>
 			<name>Email</name>
 			<url>mailto:h.h.haiduog@gmail.com</url>
-			<iconclass>fa fa-gmail</iconclass>
+			<iconclass>fa fa-mail</iconclass>
 		</link>
 	</footerlinks>
 </repo>
