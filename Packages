@@ -10,6 +10,18 @@ Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.little
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
 Filename: debs/com.hius.halfipad_3.5.1_iphoneos-arm.deb
 Size: 53806
-MD5sum: 5efa973fb6580202f1525e65285ab00e
-SHA1: 241706b79a433d4b1b31e4ab630be70fe8714f83
 SHA256: d029febcee006013cf22f6f85c9620e33b5ccd4205c554171b0b03023e1f973a
+
+Package: com.hius.halfipad
+Name: HalFiPad
+Version: 3.5.2
+Architecture: iphoneos-arm
+Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
+Filename: debs/com.hius.halfipad_3.5.2_iphoneos-arm.deb
+Size: 53696
+SHA256: 8f15188fbfdf3c5c8e1f0e216c882f31e5e25cae271aa64999da7207ce97c0c3
