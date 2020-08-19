@@ -1,0 +1,31 @@
+<packageInfo>
+    <bundleId>com.hius.halfipad</bundleId>
+    <name>HalFiPad</name>
+    <version>3.5.2</version>
+    <descriptions>
+        <description>
+            Bring modern gestures and many unique features to your iPhone, but lightweight and less battery drain.
+        </description>
+        <description>
+            ...
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>13.2</miniOS>
+        <maxiOS>13.9</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency>mobilesubstrate</dependency>
+        <dependency>preferenceloader</dependency>
+    </dependencies>
+    <changelog>
+        <change>
+            <changeVersion>V3.5.2 </changeVersion>
+            <changeDescription>Fix bugs.</changeDescription>
+        </change>
+        <change>
+            <changeVersion>V1.0</changeVersion>
+            <changeDescription>Initial Release</changeDescription>
+        </change>
+    </changelog>
+</packageInfo>
