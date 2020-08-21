@@ -17,7 +17,7 @@ SHA256: 6fb91da6bbeb41f1708645019a45b0839f3fcd69422a12818848db39414b02c5
 
 Package: com.hius.halfipad
 Name: HalFiPad
-Version: 3.5.4
+Version: 3.5.5
 Architecture: iphoneos-arm
 Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
 Maintainer: Hius <h.h.haiduog@gmail.com>
@@ -25,11 +25,11 @@ Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
-Filename: debs/com.hius.halfipad_3.5.4_iphoneos-arm.deb
-Size: 53314
-MD5sum: a2ba1968bff351f1406cba15f758bd11
-SHA1: fb58847a5ed53334bf7bc8d8f495fcc1ddbb6cd5
-SHA256: 3555d6ff88404a5fc23c32a90950158fe0c91ebeb43230887735b97cad1bfbcc
+Filename: debs/com.hius.halfipad_3.5.5_iphoneos-arm.deb
+Size: 53494
+MD5sum: afc9465a00f77a3ff0ec4aea4127ba05
+SHA1: 4b8806217c58616b0584759ecc5d5a05b6670f2d
+SHA256: 3f94f31e6beb82e2defc5871dde6510c614767f941f3faf355ddb611d778e3ca
 
 
 Package: com.hius.halfipadvn
@@ -51,7 +51,7 @@ SHA256: 266aaa74c516f971e74aa047d684eb44fd96966c520f344688b7da3890988b68
 
 Package: com.hius.halfipadvn
 Name: HalFiPad VN
-Version: 2020.8.21
+Version: 2020.8.22
 Architecture: iphoneos-arm
 Description: Cử chỉ hiện đại, tính năng iPad, và nhiều tính năng độc đáo khác, nhẹ và tiêu hao ít năng lượng.
 Maintainer: Hius <h.h.haiduog@gmail.com>
@@ -59,11 +59,11 @@ Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipad
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
-Filename: debs/com.hius.halfipadvn_2020.8.21_iphoneos-arm.deb
-Size: 53742
-MD5sum: b5d76fa633e52b714d8d0fbdc921715e
-SHA1: 6343d7bf7596982d24a8a98708b058b544797c8c
-SHA256: 89fd893495a90a409277353b735a96f775c5cf76907fe7f0362194d365736378
+Filename: debs/com.hius.halfipadvn_2020.8.22_iphoneos-arm.deb
+Size: 53784
+MD5sum: 175a968dc3a21f413a6db286b683f23e
+SHA1: 8300ff1459b317dd1e94b0a55ee18a1ed51aa040
+SHA256: 34ddf0d4f4697c37b6e0b54b7896317852577bcde5d4949e0eeb549b710f88b1
 
 
 Package: com.hius.gesturesi11
