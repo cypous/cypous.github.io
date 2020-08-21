@@ -206,3 +206,18 @@ Size: 4178
 MD5sum: d610af2830616f42ee9b214dcd5bc5a9
 SHA1: bdd72a6f416fb819955aa4ee25c06e950a147c4a
 SHA256: b8ae93d8519ef5c445caf108dd3d8a32a794b7050d0ff14b920b45f8a061f9a6
+
+
+Package: com.pantsthief.flexing
+Name: FLEXing
+Version: 1.2.0
+Architecture: iphoneos-arm
+Description: Disable gestures when using keyboard.
+Maintainer: Tanner Bennett
+Author: Tanner Bennett
+Section: Tweaks
+Filename: debs/com.pantsthief.flexing_1.2.0.deb
+Size: 14848
+MD5sum: 76bdf47e87cd9169db4a656348190b5c
+SHA1: 7ab58ec18a35e9a781c40c7325109bc2b9c43041
+SHA256: 142904c8de2764df8e5c6b2b087883f384ad3372007d0d4465d1d6cd92b2586a
