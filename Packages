@@ -15,6 +15,23 @@ SHA1: 9c398a076b8e4cd2bad35b227fbef8db8331cc51
 SHA256: 6fb91da6bbeb41f1708645019a45b0839f3fcd69422a12818848db39414b02c5
 
 
+Package: com.hius.halfipad
+Name: HalFiPad
+Version: 3.5.4
+Architecture: iphoneos-arm
+Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
+Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
+Filename: debs/com.hius.halfipad_3.5.4_iphoneos-arm.deb
+Size: 53314
+MD5sum: a2ba1968bff351f1406cba15f758bd11
+SHA1: fb58847a5ed53334bf7bc8d8f495fcc1ddbb6cd5
+SHA256: 3555d6ff88404a5fc23c32a90950158fe0c91ebeb43230887735b97cad1bfbcc
+
+
 Package: com.hius.halfipadvn
 Name: HalFiPad VN
 Version: 2020.8.20
@@ -30,6 +47,23 @@ Size: 53944
 MD5sum: d68c10d03acdf74470d1ecbc00cf0193
 SHA1: 76460ed101d48a5c4dec19bb48b4a1bb4cb78943
 SHA256: 266aaa74c516f971e74aa047d684eb44fd96966c520f344688b7da3890988b68
+
+
+Package: com.hius.halfipadvn
+Name: HalFiPad VN
+Version: 2020.8.21
+Architecture: iphoneos-arm
+Description: Cử chỉ hiện đại, tính năng iPad, và nhiều tính năng độc đáo khác, nhẹ và tiêu hao ít năng lượng.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipad
+Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
+Filename: debs/com.hius.halfipadvn_2020.8.21_iphoneos-arm.deb
+Size: 53742
+MD5sum: b5d76fa633e52b714d8d0fbdc921715e
+SHA1: 6343d7bf7596982d24a8a98708b058b544797c8c
+SHA256: 89fd893495a90a409277353b735a96f775c5cf76907fe7f0362194d365736378
 
 
 Package: com.hius.gesturesi11
@@ -116,7 +150,7 @@ SHA256: 96cd2d1e97306eb6ff18b42fc7f1ecb20aca415a69efeca95bef7e0931d2eb5f
 
 Package: com.hius.ymf
 Name: YMF
-Version: 1.2.0
+Version: 1.2.0-1
 Architecture: iphoneos-arm
 Description: Remove some ads on Facebook, Youtube, Messenger, Reddit, Twitter, Instagram.
 Maintainer: Hius <h.h.haiduog@gmail.com>
