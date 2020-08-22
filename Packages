@@ -1,6 +1,6 @@
 Package: com.hius.halfipad
 Name: HalFiPad
-Version: 3.5.3
+Version: 3.5.6
 Architecture: iphoneos-arm
 Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
 Maintainer: Hius <h.h.haiduog@gmail.com>
@@ -8,33 +8,16 @@ Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
-Filename: debs/com.hius.halfipad_3.5.3_iphoneos-arm.deb
-Size: 53334
-MD5sum: 7fbc26e10a7b0791e65c74ee3641aa3b
-SHA1: 9c398a076b8e4cd2bad35b227fbef8db8331cc51
-SHA256: 6fb91da6bbeb41f1708645019a45b0839f3fcd69422a12818848db39414b02c5
-
-
-Package: com.hius.halfipad
-Name: HalFiPad
-Version: 3.5.5
-Architecture: iphoneos-arm
-Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
-Maintainer: Hius <h.h.haiduog@gmail.com>
-Author: Hius <h.h.haiduog@gmail.com>
-Section: Tweaks
-Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
-Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
-Filename: debs/com.hius.halfipad_3.5.5_iphoneos-arm.deb
-Size: 53494
-MD5sum: afc9465a00f77a3ff0ec4aea4127ba05
-SHA1: 4b8806217c58616b0584759ecc5d5a05b6670f2d
-SHA256: 3f94f31e6beb82e2defc5871dde6510c614767f941f3faf355ddb611d778e3ca
+Filename: debs/com.hius.halfipad_3.5.6_iphoneos-arm.deb
+Size: 56054
+MD5sum: 01056c91cdf373755e43f39dc6f2982a
+SHA1: e7f5a0053bd0e690177398a1e017f92f9677498c
+SHA256: 8e02609e904f6e2f80119a40268af96804fc3894620babaa31ec67b0eb76e5c4
 
 
 Package: com.hius.halfipadvn
 Name: HalFiPad VN
-Version: 2020.8.20
+Version: 2020.8.23
 Architecture: iphoneos-arm
 Description: Cử chỉ hiện đại, tính năng iPad, và nhiều tính năng độc đáo khác, nhẹ và tiêu hao ít năng lượng.
 Maintainer: Hius <h.h.haiduog@gmail.com>
@@ -42,28 +25,11 @@ Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipad
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
-Filename: debs/com.hius.halfipadvn_2020.8.20_iphoneos-arm.deb
-Size: 53944
-MD5sum: d68c10d03acdf74470d1ecbc00cf0193
-SHA1: 76460ed101d48a5c4dec19bb48b4a1bb4cb78943
-SHA256: 266aaa74c516f971e74aa047d684eb44fd96966c520f344688b7da3890988b68
-
-
-Package: com.hius.halfipadvn
-Name: HalFiPad VN
-Version: 2020.8.22
-Architecture: iphoneos-arm
-Description: Cử chỉ hiện đại, tính năng iPad, và nhiều tính năng độc đáo khác, nhẹ và tiêu hao ít năng lượng.
-Maintainer: Hius <h.h.haiduog@gmail.com>
-Author: Hius <h.h.haiduog@gmail.com>
-Section: Tweaks
-Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipad
-Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
-Filename: debs/com.hius.halfipadvn_2020.8.22_iphoneos-arm.deb
-Size: 53784
-MD5sum: 175a968dc3a21f413a6db286b683f23e
-SHA1: 8300ff1459b317dd1e94b0a55ee18a1ed51aa040
-SHA256: 34ddf0d4f4697c37b6e0b54b7896317852577bcde5d4949e0eeb549b710f88b1
+Filename: debs/com.hius.halfipadvn_2020.8.23_iphoneos-arm.deb
+Size: 56392
+MD5sum: 916ca9fb5021c178a1b5180b1954cbb5
+SHA1: abfaecdd53303f0edab9d2f18a8753f816c10e7a
+SHA256: 988a7d80f0ded03a472ca51883da084bdc3bb080a03e2055d3bc9c002b168452
 
 
 Package: com.hius.gesturesi11

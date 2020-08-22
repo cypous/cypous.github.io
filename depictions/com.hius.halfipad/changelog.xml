@@ -1,11 +1,7 @@
 <changelog>
 	<changes>
-		<version>3.5.2</version>
-		<change>Fix bugs.</change>
-	</changes>
-	<changes>
-		<version>3.5.1</version>
-		<change>Fix bugs.</change>
+		<version>3.5.6</version>
+		<change>Fix blank preferences.</change>
 	</changes>
 	<changes>
 		<version>3.5.0</version>
