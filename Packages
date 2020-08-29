@@ -15,6 +15,23 @@ SHA1: e7f5a0053bd0e690177398a1e017f92f9677498c
 SHA256: 8e02609e904f6e2f80119a40268af96804fc3894620babaa31ec67b0eb76e5c4
 
 
+Package: com.hius.halfipad
+Name: HalFiPad
+Version: 3.6.1
+Architecture: iphoneos-arm
+Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
+Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
+Filename: debs/com.hius.halfipad_3.6.1_iphoneos-arm.deb
+Size: 70540
+MD5sum: 2d8bc9170e9f574fd396d6aa573ae523
+SHA1: 295db0a784d025934467fb507d24cc5d67221d84
+SHA256: a51bfd866f1db924373727755dbaa72c6c1d0726eee35cd0e4dff3e8ba5280a7
+
+
 Package: com.hius.halfipadvn
 Name: HalFiPad VN
 Version: 2020.8.23
@@ -30,6 +47,23 @@ Size: 56392
 MD5sum: 916ca9fb5021c178a1b5180b1954cbb5
 SHA1: abfaecdd53303f0edab9d2f18a8753f816c10e7a
 SHA256: 988a7d80f0ded03a472ca51883da084bdc3bb080a03e2055d3bc9c002b168452
+
+
+Package: com.hius.halfipadvn
+Name: HalFiPad VN
+Version: 2020.8.25
+Architecture: iphoneos-arm
+Description: Cử chỉ hiện đại, tính năng iPad, và nhiều tính năng độc đáo khác, nhẹ và tiêu hao ít năng lượng.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipad
+Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
+Filename: debs/com.hius.halfipadvn_2020.8.25_iphoneos-arm.deb
+Size: 70910
+MD5sum: bd1ad23078507792ab45af90297b882c
+SHA1: 171140e3402cd3bc93d3d6c4dc2352e9b9ad919d
+SHA256: e0f57dda6cf33dd480446ea27217514b31bd0ef8c20b440c743bc4eade4c9939
 
 
 Package: com.hius.gesturesi11
@@ -148,7 +182,7 @@ Package: com.hius.iproxi
 Name: iPro XI
 Version: 1.1.1
 Architecture: iphoneos-arm
-Description: iPhone 11 features, many unique features.
+Description: Modern gestures and many unique features.
 Maintainer: Hius <h.h.haiduog@gmail.com>
 Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
@@ -157,6 +191,21 @@ Size: 25804
 MD5sum: 185c42e2a893156518d2bea0766e39be
 SHA1: 9cc5db2cab4761fbf34989165e81858b4ae45ba2
 SHA256: 5aed4cd5180fe903cd6849425907ab16d10eaf528a670f13e3bd02878438b0c7
+
+
+Package: com.hius.iproxi
+Name: iPro XI
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: Modern gestures and many unique features.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Filename: debs/com.hius.iproxi_2.0.0_iphoneos-arm.deb
+Size: 67518
+MD5sum: d10c649fd78a684257306255959f06ec
+SHA1: 6f6319df6626754ad6904a7ce1dbc23e99740791
+SHA256: 829b31b0e25c8fa31c4462af0527c0ad7e57638a0fea55a19569a62d10ba29fb
 
 
 Package: com.hius.noswipekeyboard13
