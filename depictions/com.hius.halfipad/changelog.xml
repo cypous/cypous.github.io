@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>3.6.1</version>
+		<change>Fix bugs and improve preferences.</change>
+	</changes>
+	<changes>
 		<version>3.5.6</version>
 		<change>Fix blank preferences.</change>
 	</changes>
