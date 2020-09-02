@@ -23,6 +23,8 @@ Description: Modern gestures, iPad features, and many unique features but lightw
 Maintainer: Hius <h.h.haiduog@gmail.com>
 Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
+Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipad
+SileoDepiction: https://cypous.github.io/repo/depictions/native/com.hius.halfipad/depiction.json
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
 Filename: debs/com.hius.halfipad_3.6.1_iphoneos-arm.deb
