@@ -46,6 +46,8 @@ Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.gesturesi11vn
 Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Prefs/Resources/icon%402x.png
+Depiction: https://cypous.github.io/depictions/web/?p=com.hius.gesturesi11
+SileoDepiction: https://cypous.github.io/depictions/native/com.hius.gesturesi11/depiction.json
 Filename: debs/com.hius.gesturesi11_3.5.2_iphoneos-arm.deb
 Size: 23438
 MD5sum: 4806d627f31fa2914ac0f349332dfbca
@@ -63,11 +65,13 @@ Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.gesturesi11vn
 Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Prefs/Resources/icon%402x.png
+Depiction: https://cypous.github.io/depictions/web/?p=com.hius.gesturesi11
+SileoDepiction: https://cypous.github.io/depictions/native/com.hius.gesturesi11/depiction.json
 Filename: debs/com.hius.gesturesi11_3.5.3_iphoneos-arm.deb
-Size: 24010
-MD5sum: 05c89df5d3f57ec9d97070c503514d8a
-SHA1: 088cae61efbb86dc0e8b83ae878ffe857924d646
-SHA256: f870aac020a56cba4cac21e109b0afc19f5e5985ef67ea9682194694240fbca4
+Size: 24168
+MD5sum: 072a657e21fb937fdba0ec5c40d93dca
+SHA1: 57081c61f23a5f88e3ba9bef47b213ecc73e048c
+SHA256: c2c552801c8ab226113b569318dfb936f36a055ec10266cbd76719fe05518e76
 
 
 Package: com.hius.gesturesi11vn
@@ -80,11 +84,13 @@ Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.gesturesi11
 Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Prefs/Resources/icon%402x.png
+Depiction: https://cypous.github.io/depictions/web/?p=com.hius.gesturesi11vn
+SileoDepiction: https://cypous.github.io/depictions/native/com.hius.gesturesi11vn/depiction.json
 Filename: debs/com.hius.gesturesi11vn_2020.8.19_iphoneos-arm.deb
-Size: 24212
-MD5sum: fadfa0bd44e5573c1cdf222538b8b8d1
-SHA1: 05161fbf381d107fcad8cd84bc0549d3a13a70f6
-SHA256: 4bf027e32dd35cb0b41086c1dc2dba6648ee097ad7575b6727bc3852cfd211a6
+Size: 24364
+MD5sum: a3a75ae8bb28a1bafe48d8ba6764fa1a
+SHA1: 9fddd6255fb21c6e51dfc528accd5a086ef42aee
+SHA256: 28435805b03732fd1b65653bfd743dc2d2e7b385ea4dd9f8dd0bd50fdc390c22
 
 
 Package: com.hius.simplex
