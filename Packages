@@ -23,15 +23,13 @@ Description: Modern gestures, iPad features, and many unique features but lightw
 Maintainer: Hius <h.h.haiduog@gmail.com>
 Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
-Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipad
-SileoDepiction: https://cypous.github.io/repo/depictions/native/com.hius.halfipad/depiction.json
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
 Filename: debs/com.hius.halfipad_3.6.1_iphoneos-arm.deb
-Size: 70540
-MD5sum: 2d8bc9170e9f574fd396d6aa573ae523
-SHA1: 295db0a784d025934467fb507d24cc5d67221d84
-SHA256: a51bfd866f1db924373727755dbaa72c6c1d0726eee35cd0e4dff3e8ba5280a7
+Size: 70636
+MD5sum: 4d1cb68df83404ae6f3072e4022344b4
+SHA1: 73d981314f6c360c5394c39f098e3cdc03c442b1
+SHA256: 4c0a6a626992995c90a9b238572c5d5b6dd5ae12632749b251ad47592b528704
 
 
 Package: com.hius.halfipadvn
@@ -238,3 +236,18 @@ Size: 14848
 MD5sum: 76bdf47e87cd9169db4a656348190b5c
 SHA1: 7ab58ec18a35e9a781c40c7325109bc2b9c43041
 SHA256: 142904c8de2764df8e5c6b2b087883f384ad3372007d0d4465d1d6cd92b2586a
+
+
+Package: github.io.gfp.pubg
+Name: Don't ban Pubg me
+Version: 0.19.4.3
+Architecture: iphoneos-arm
+Description: Antiban pubg
+Maintainer: don't know
+Author: don't know
+Section: Tweaks
+Filename: debs/github.io.gfp.pubg_0.19.4.3_iphoneos-arm.deb
+Size: 1939744
+MD5sum: cb474e1cfb21dcc54d405c74b44bdc96
+SHA1: 2337a6eef6145a114dbbd458c683c786a39241e5
+SHA256: 9dfc87d87c1daea7143336ba7420e39a6f7df0558234ee626606b0a986096fee
