@@ -27,9 +27,9 @@ Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.little
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
 Filename: debs/com.hius.halfipad_3.6.1_iphoneos-arm.deb
 Size: 70636
-MD5sum: 4d1cb68df83404ae6f3072e4022344b4
-SHA1: 73d981314f6c360c5394c39f098e3cdc03c442b1
-SHA256: 4c0a6a626992995c90a9b238572c5d5b6dd5ae12632749b251ad47592b528704
+MD5sum: b5e31a0f86b768e86708e04942f7cbd6
+SHA1: b93f8e26bcfdfa84bac29942a6a25803e2af63c1
+SHA256: 67978aa7190cdea6e04d8fa500ee6dd702c0804070dca6f072f2290302dced6f
 
 
 Package: com.hius.halfipadvn
@@ -238,16 +238,16 @@ SHA1: 7ab58ec18a35e9a781c40c7325109bc2b9c43041
 SHA256: 142904c8de2764df8e5c6b2b087883f384ad3372007d0d4465d1d6cd92b2586a
 
 
-Package: github.io.gfp.pubg
-Name: Don't Ban Pubg Me
-Version: 0.19.4.3
+Package: com.hius.pubgme
+Name: TryHackPubg
+Version: 0.1
 Architecture: iphoneos-arm
-Description: Antiban Pubg 0.19.4.3
-Maintainer: don't know
-Author: don't know
+Description: Antiban Pubg 0.19
+Maintainer: null
+Author: null
 Section: Tweaks
-Filename: debs/github.io.gfp.pubg_0.19.4.3_iphoneos-arm.deb
-Size: 1939744
-MD5sum: cb474e1cfb21dcc54d405c74b44bdc96
-SHA1: 2337a6eef6145a114dbbd458c683c786a39241e5
-SHA256: 9dfc87d87c1daea7143336ba7420e39a6f7df0558234ee626606b0a986096fee
+Filename: debs/com.hius.pubgme.deb
+Size: 947228
+MD5sum: 883a8fcd32fcecf3883ab3c2fa1cc420
+SHA1: 2e4aca95187792ad15c63ee7ed3d2bfcd79ad5f3
+SHA256: e8832f1ac7708df3f1765e5793f8e1c1656b467edd940c8bac2de164d4221d5b
