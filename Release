@@ -5,5 +5,4 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Cypous
-Icon: https://raw.githubusercontent.com/cypous/cypous.github.io/master/RepoIcon.png
+Description: Cypous's Repo
