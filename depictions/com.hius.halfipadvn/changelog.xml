@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>2020.8.25</version>
+		<change>Sửa lỗi, cải tiến.</change>
+	</changes>
+	<changes>
 		<version>2020.8.23</version>
 		<change>Cập nhật.</change>
 		<change>Sửa lỗi tuỳ chọn trống cho người dùng Unc0ver, Odyssey.</change>
