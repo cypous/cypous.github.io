@@ -1,6 +1,6 @@
 Package: com.hius.halfipad
 Name: HalFiPad
-Version: 3.7.0
+Version: 3.7.1
 Architecture: iphoneos-arm
 Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
 Maintainer: Hius <h.h.haiduog@gmail.com>
@@ -10,11 +10,11 @@ Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.little
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
 Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipad
 SileoDepiction: https://cypous.github.io/depictions/native/com.hius.halfipad/depiction.json
-Filename: debs/com.hius.halfipad_3.7.0_iphoneos-arm.deb
-Size: 68118
-MD5sum: b9c0c64d4ad9337056fc78b04472a79b
-SHA1: d400bb7ca612a51ee13a2b8c07d5fd16998d0534
-SHA256: ddc06332fa3cee30ec0b5c1878770a6a67723a3d2f8c1faa97fe39d91ea930ff
+Filename: debs/com.hius.halfipad_3.7.1_iphoneos-arm.deb
+Size: 68352
+MD5sum: eff8bdc71de222368f0e951423250502
+SHA1: feb12f88a8947a43a2093fb32e2a6acd68a2e8aa
+SHA256: 389c9cc62e0b3718d963b23cacfc250143d1f1cf8c515d2dbb1bdd5d6e18eea4
 
 
 Package: com.hius.halfipad
@@ -95,7 +95,7 @@ SHA256: c2c552801c8ab226113b569318dfb936f36a055ec10266cbd76719fe05518e76
 
 Package: com.hius.gesturesi11
 Name: Gesturesi11
-Version: 3.5.6
+Version: 3.6.0
 Architecture: iphoneos-arm
 Description: Modern gestures, lightweight and less battery drain.
 Maintainer: Hius <h.h.haiduog@gmail.com>
@@ -105,11 +105,11 @@ Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.little
 Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Prefs/Resources/icon%402x.png
 Depiction: https://cypous.github.io/depictions/web/?p=com.hius.gesturesi11
 SileoDepiction: https://cypous.github.io/depictions/native/com.hius.gesturesi11/depiction.json
-Filename: debs/com.hius.gesturesi11_3.5.6_iphoneos-arm.deb
-Size: 27888
-MD5sum: ab777e43933b98c446d36e867609d9b5
-SHA1: 6d424a483da92a0530acb79378f6419a9705c453
-SHA256: 4423587fffc8f799c70e102b69b901c7ed33535265eae6db937a3a6620bd476f
+Filename: debs/com.hius.gesturesi11_3.6.0_iphoneos-arm.deb
+Size: 28382
+MD5sum: aec94a6a23c6896024ecef39059b40be
+SHA1: 199e374c28c51b882eac30351876d8ce9df4e777
+SHA256: 2ae720298832b131c4ed6fa768fd9a12f65b8eb41fb74c3d6434604e9b43720c
 
 
 Package: com.hius.gesturesi11vn
