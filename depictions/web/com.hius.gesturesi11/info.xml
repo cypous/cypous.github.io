@@ -35,6 +35,7 @@
 	</screenshots>
 	<changelog>
 		<change>V3.5.3</change>
-		<change>Update and Fix bugs.</change>
+		<change>Support iOS 14.</change>
+		<change>Add new features and fix bugs.</change>
 	</changelog>
 </package>

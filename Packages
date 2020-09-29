@@ -1,5 +1,24 @@
 Package: com.hius.halfipad
 Name: HalFiPad
+Version: 3.7.0
+Architecture: iphoneos-arm
+Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
+Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
+Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipad
+SileoDepiction: https://cypous.github.io/depictions/native/com.hius.halfipad/depiction.json
+Filename: debs/com.hius.halfipad_3.7.0_iphoneos-arm.deb
+Size: 68118
+MD5sum: b9c0c64d4ad9337056fc78b04472a79b
+SHA1: d400bb7ca612a51ee13a2b8c07d5fd16998d0534
+SHA256: ddc06332fa3cee30ec0b5c1878770a6a67723a3d2f8c1faa97fe39d91ea930ff
+
+
+Package: com.hius.halfipad
+Name: HalFiPad
 Version: 3.6.1
 Architecture: iphoneos-arm
 Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
@@ -74,6 +93,25 @@ SHA1: 57081c61f23a5f88e3ba9bef47b213ecc73e048c
 SHA256: c2c552801c8ab226113b569318dfb936f36a055ec10266cbd76719fe05518e76
 
 
+Package: com.hius.gesturesi11
+Name: Gesturesi11
+Version: 3.5.6
+Architecture: iphoneos-arm
+Description: Modern gestures, lightweight and less battery drain.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.gesturesi11vn
+Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Prefs/Resources/icon%402x.png
+Depiction: https://cypous.github.io/depictions/web/?p=com.hius.gesturesi11
+SileoDepiction: https://cypous.github.io/depictions/native/com.hius.gesturesi11/depiction.json
+Filename: debs/com.hius.gesturesi11_3.5.6_iphoneos-arm.deb
+Size: 27888
+MD5sum: ab777e43933b98c446d36e867609d9b5
+SHA1: 6d424a483da92a0530acb79378f6419a9705c453
+SHA256: 4423587fffc8f799c70e102b69b901c7ed33535265eae6db937a3a6620bd476f
+
+
 Package: com.hius.gesturesi11vn
 Name: Gesturesi11 VN
 Version: 2020.8.19
@@ -124,19 +162,19 @@ SHA1: 95b069f6d87b42d9a973935ecbf8d20a993aac57
 SHA256: 96cd2d1e97306eb6ff18b42fc7f1ecb20aca415a69efeca95bef7e0931d2eb5f
 
 
-Package: com.hius.ymf
-Name: YMF
-Version: 1.2.0-1
+Package: com.hius.noadsocial
+Name: No Ads Social
+Version: 1.2.1
 Architecture: iphoneos-arm
 Description: Remove some ads on Facebook, Youtube, Messenger, Reddit, Twitter, Instagram.
 Maintainer: Hius <h.h.haiduog@gmail.com>
 Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
-Filename: debs/com.hius.ymf_1.2.0-1_iphoneos-arm.deb
-Size: 11014
-MD5sum: 8a2a21ca876dfe317b8e0a8e982f361d
-SHA1: 149c43cfd4e20c55b689b479004c646a7543bfe5
-SHA256: 77810749f206859a5c2d31735bc9d2ce7ef0b02104492fb98d41d85a4270b22e
+Filename: debs/com.hius.noadsocial_1.2.1_iphoneos-arm.deb
+Size: 15126
+MD5sum: 1d04e5fd15416e4dbbb453c491d2ffaf
+SHA1: a31b9ee7918ead4cd3ff05d49d7c150ec7331aee
+SHA256: 72310acf9c91002f541a5349d7e2a4b33cbc97b6351de7828aa7b096f1eeda9d
 
 
 Package: com.hius.avlock13

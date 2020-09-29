@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>3.7.0</version>
+		<change>Support iOS 14.</change>
+		<change>Fix bugs and improve.</change>
+	</changes>
+	<changes>
 		<version>3.6.1</version>
 		<change>Fix bugs and improve preferences.</change>
 	</changes>
