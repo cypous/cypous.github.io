@@ -239,17 +239,34 @@ SHA256: b8ae93d8519ef5c445caf108dd3d8a32a794b7050d0ff14b920b45f8a061f9a6
 
 Package: com.pantsthief.flexing
 Name: FLEXing
-Version: 1.2.0
+Depends: libflex
+Version: 1.3.0
 Architecture: iphoneos-arm
 Description: Disable gestures when using keyboard.
 Maintainer: Tanner Bennett
 Author: Tanner Bennett
 Section: Tweaks
-Filename: debs/com.pantsthief.flexing_1.2.0.deb
-Size: 14848
-MD5sum: 76bdf47e87cd9169db4a656348190b5c
-SHA1: 7ab58ec18a35e9a781c40c7325109bc2b9c43041
-SHA256: 142904c8de2764df8e5c6b2b087883f384ad3372007d0d4465d1d6cd92b2586a
+Filename: debs/com.pantsthief.flexing_1.3.0.deb
+Size: 17422
+MD5sum: b731e1d3f57639e3428942d2b0e51aa3
+SHA1: 12413f536bc8ab87a1625d150fd22a193c66c33a
+SHA256: 1e46bed5c781fcbe6c7b956e825120a07642b7baae617d2089362f67a0361a10
+
+
+Package: libflex
+Name: libFLEX
+Pre-Depends: firmware (>=9.0)
+Version: 4.1.2~b2
+Architecture: iphoneos-arm
+Description: Disable gestures when using keyboard.
+Maintainer: Tanner Bennett
+Author: Tanner Bennett
+Section: Tweaks
+Filename: debs/libflex_4.1.2_b2.deb
+Size: 2009260
+MD5sum: 58fd7766a8c97ab3227eac046beb35d3
+SHA1: 3310789373769d970a7a7579ee596efefb41a98c
+SHA256: b239a694400fcebe3959a6f242816ce02290f9e41b20925d4c5b60858ac7e436
 
 
 Package: com.hius.pubgme
