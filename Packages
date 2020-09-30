@@ -1,6 +1,6 @@
 Package: com.hius.halfipad
 Name: HalFiPad
-Version: 3.7.1
+Version: 3.7.2
 Architecture: iphoneos-arm
 Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
 Maintainer: Hius <h.h.haiduog@gmail.com>
@@ -10,11 +10,11 @@ Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.little
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
 Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipad
 SileoDepiction: https://cypous.github.io/depictions/native/com.hius.halfipad/depiction.json
-Filename: debs/com.hius.halfipad_3.7.1_iphoneos-arm.deb
-Size: 68352
-MD5sum: eff8bdc71de222368f0e951423250502
-SHA1: feb12f88a8947a43a2093fb32e2a6acd68a2e8aa
-SHA256: 389c9cc62e0b3718d963b23cacfc250143d1f1cf8c515d2dbb1bdd5d6e18eea4
+Filename: debs/com.hius.halfipad_3.7.2_iphoneos-arm.deb
+Size: 68120
+MD5sum: af1e9c9d3ae23780f2ed2149b63dd6ec
+SHA1: adbaa06432761f1d22c0de468aa8df6a33ea3c13
+SHA256: 66efa465d68cfb27e3550091806ff3ca4eabfd4feee2a7156a57b8e1680453dc
 
 
 Package: com.hius.halfipad
@@ -106,7 +106,7 @@ Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Pre
 Depiction: https://cypous.github.io/depictions/web/?p=com.hius.gesturesi11
 SileoDepiction: https://cypous.github.io/depictions/native/com.hius.gesturesi11/depiction.json
 Filename: debs/com.hius.gesturesi11_3.6.0_iphoneos-arm.deb
-Size: 28382
+Size: 28082
 MD5sum: aec94a6a23c6896024ecef39059b40be
 SHA1: 199e374c28c51b882eac30351876d8ce9df4e777
 SHA256: 2ae720298832b131c4ed6fa768fd9a12f65b8eb41fb74c3d6434604e9b43720c
