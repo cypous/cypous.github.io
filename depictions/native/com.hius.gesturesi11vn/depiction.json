@@ -6,7 +6,7 @@
                 {
                     "useBottomMargin": false,
                     "useBoldText": true,
-                    "title": "Gesturesi11VN",
+                    "title": "Gesturesi11 VN",
                     "class": "DepictionSubheaderView"
                 },
                 {
@@ -41,12 +41,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020.8.19",
+                    "text": "2020.10.01",
                     "title": "Version"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "09-02-2020",
+                    "text": "10-01-2020",
                     "title": "Released"
                 },
                 {

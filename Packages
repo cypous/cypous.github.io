@@ -131,6 +131,25 @@ SHA1: 9fddd6255fb21c6e51dfc528accd5a086ef42aee
 SHA256: 28435805b03732fd1b65653bfd743dc2d2e7b385ea4dd9f8dd0bd50fdc390c22
 
 
+Package: com.hius.gesturesi11vn
+Name: Gesturesi11 VN
+Version: 2020.10.01
+Architecture: iphoneos-arm
+Description: Cử chỉ hiện đại, nhẹ và ít hao pin.
+Maintainer: Hius <h.h.haiduog@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.gesturesi11
+Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Prefs/Resources/icon%402x.png
+Depiction: https://cypous.github.io/depictions/web/?p=com.hius.gesturesi11vn
+SileoDepiction: https://cypous.github.io/depictions/native/com.hius.gesturesi11vn/depiction.json
+Filename: debs/com.hius.gesturesi11vn_2020.10.01_iphoneos-arm.deb
+Size: 32666
+MD5sum: 33a849d4f472f130777fb0ed60a33d9a
+SHA1: d8cdd241d1b5612c14b0878ee26db033111058ee
+SHA256: 7f63b7a129b94ce1f501d888726bcea097554d44212c88538d558c50bd802304
+
+
 Package: com.hius.simplex
 Name: SimpleX
 Version: 2
