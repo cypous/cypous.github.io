@@ -11,10 +11,10 @@ Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Res
 Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipad
 SileoDepiction: https://cypous.github.io/depictions/native/com.hius.halfipad/depiction.json
 Filename: debs/com.hius.halfipad_3.7.5_iphoneos-arm.deb
-Size: 65748
-MD5sum: d996fd8099ee14703b195c684cada1d3
-SHA1: a01c95e05900ef2811b2de540c6a262934a74eaf
-SHA256: 791a8b922445fbaae0e6cfa0390e2246b2335737bfebe6f845828770dea5ec56
+Size: 65528
+MD5sum: f2d3720afec440a186215732b6ccadd9
+SHA1: 2a6cad8f2fdc73a37c26f3917c5dc8bb4da1f3ad
+SHA256: 67708011fabc3de885c313cf2ae5422cbcdcd4f0261744545e7b9359034a3465
 
 
 Package: com.hius.halfipad
@@ -68,10 +68,10 @@ Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Res
 Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipadvn
 SileoDepiction: https://cypous.github.io/depictions/native/com.hius.halfipadvn/depiction.json
 Filename: debs/com.hius.halfipadvn_2020.10.01_iphoneos-arm.deb
-Size: 65864
-MD5sum: 3dd837a443e9e71cdc5a97f277cee3f7
-SHA1: 35530eba43ffc2fbd96b96f82dc0fcf661e443ad
-SHA256: 6c52b4ee776a2b34758ce9487dfb9090a7ef6045b9c6b461c212621a4041ace2
+Size: 65872
+MD5sum: 282ae8c745b4ff66703a562db4db70cf
+SHA1: 590831a6dcd1cc2923b28be68e8d1e84b58e9dd3
+SHA256: 8aa47b0cc09b91a376feb5a3746f90a8f7ae2710ac7366a693493adda2c2da6b
 
 
 Package: com.hius.gesturesi11
