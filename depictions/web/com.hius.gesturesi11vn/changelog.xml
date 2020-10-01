@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>2020.10.02</version>
+		<change>Sửa lỗi.</change>
+	</changes>
+	<changes>
 		<version>2020.10.01</version>
 		<change>Hỗ trợ iOS 14.</change>
 		<change>Thêm tính năng.</change>

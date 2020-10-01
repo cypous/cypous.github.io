@@ -1,9 +1,13 @@
 <changelog>
 	<changes>
+		<version>3.6.3</version>
+		<change>Fix freeze.</change>
+	</changes>
+	<changes>
 		<version>3.6.2</version>
 		<change>Fix freeze in settings new wallpaper.</change>
 		<change>Fix status bar default.</change>
-		<change>Others...</change>
+		<change>...</change>
 	</changes>
 	<changes>
 		<version>3.6.1</version>

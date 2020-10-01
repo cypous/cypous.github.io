@@ -41,12 +41,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020.10.01",
+                    "text": "2020.10.02",
                     "title": "Version"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "10-01-2020",
+                    "text": "10-02-2020",
                     "title": "Released"
                 },
                 {
