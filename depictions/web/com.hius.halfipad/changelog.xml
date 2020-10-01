@@ -1,5 +1,11 @@
 <changelog>
 	<changes>
+		<version>3.7.4</version>
+		<change>Fix freeze in settings new wallpaper.</change>
+		<change>Fix status bar default.</change>
+		<change>Others...</change>
+	</changes>
+	<changes>
 		<version>3.7.3</version>
 		<change>Support iOS 14.</change>
 		<change>Fix bugs and improve.</change>
