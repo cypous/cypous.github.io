@@ -1,6 +1,6 @@
 Package: com.hius.halfipad
 Name: HalFiPad
-Version: 3.7.5
+Version: 3.7.6
 Architecture: iphoneos-arm
 Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
 Maintainer: Hius <h.h.haiduog@gmail.com>
@@ -10,11 +10,11 @@ Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.little
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
 Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipad
 SileoDepiction: https://cypous.github.io/depictions/native/com.hius.halfipad/depiction.json
-Filename: debs/com.hius.halfipad_3.7.5_iphoneos-arm.deb
-Size: 65528
-MD5sum: f2d3720afec440a186215732b6ccadd9
-SHA1: 2a6cad8f2fdc73a37c26f3917c5dc8bb4da1f3ad
-SHA256: 67708011fabc3de885c313cf2ae5422cbcdcd4f0261744545e7b9359034a3465
+Filename: debs/com.hius.halfipad_3.7.6_iphoneos-arm.deb
+Size: 65610
+MD5sum: 70063f1ab8c0cc03b4cc8c75ef81a12b
+SHA1: aa5899fee23a7a64c29ae50623e66b5ab39c0d75
+SHA256: f805222bfd26c85af9b347e662ef5fa5aba91d5d961c670e25731faeb5b668d1
 
 
 Package: com.hius.halfipad
@@ -57,7 +57,7 @@ SHA256: 1559de0e50476d972ada7af75ace1abc02e28e315623c49e63cc19715119ae5e
 
 Package: com.hius.halfipadvn
 Name: HalFiPad VN
-Version: 2020.10.01
+Version: 2020.10.02
 Architecture: iphoneos-arm
 Description: Cử chỉ hiện đại, tính năng iPad, và nhiều tính năng độc đáo khác, nhẹ và tiêu hao ít năng lượng.
 Maintainer: Hius <h.h.haiduog@gmail.com>
@@ -67,11 +67,11 @@ Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.little
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
 Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipadvn
 SileoDepiction: https://cypous.github.io/depictions/native/com.hius.halfipadvn/depiction.json
-Filename: debs/com.hius.halfipadvn_2020.10.01_iphoneos-arm.deb
-Size: 65872
-MD5sum: 282ae8c745b4ff66703a562db4db70cf
-SHA1: 590831a6dcd1cc2923b28be68e8d1e84b58e9dd3
-SHA256: 8aa47b0cc09b91a376feb5a3746f90a8f7ae2710ac7366a693493adda2c2da6b
+Filename: debs/com.hius.halfipadvn_2020.10.02_iphoneos-arm.deb
+Size: 65992
+MD5sum: 627814fd774621f5e8f25f9e65756ba1
+SHA1: 265b2978f4526159fd5569ec1db00d976ce79b3d
+SHA256: 73aec221b6bf1827aefc9541d6d3ca5194e7b73b39844ec8d59dc7a759408656
 
 
 Package: com.hius.gesturesi11
@@ -114,7 +114,7 @@ SHA256: c2c552801c8ab226113b569318dfb936f36a055ec10266cbd76719fe05518e76
 
 Package: com.hius.gesturesi11
 Name: Gesturesi11
-Version: 3.6.3
+Version: 3.6.4
 Architecture: iphoneos-arm
 Description: Modern gestures, lightweight and less battery drain.
 Maintainer: Hius <h.h.haiduog@gmail.com>
@@ -124,11 +124,11 @@ Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.little
 Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Prefs/Resources/icon%402x.png
 Depiction: https://cypous.github.io/depictions/web/?p=com.hius.gesturesi11
 SileoDepiction: https://cypous.github.io/depictions/native/com.hius.gesturesi11/depiction.json
-Filename: debs/com.hius.gesturesi11_3.6.3_iphoneos-arm.deb
-Size: 32188
-MD5sum: d431c527347bcec4b37b52a4892c8070
-SHA1: fed9ba8f96164c79f372e2ceb6f1026d51734e33
-SHA256: 79d708f1de930dc3963b7f99cc26412661c0b12a9336cf082d2e74b81bb5f699
+Filename: debs/com.hius.gesturesi11_3.6.4_iphoneos-arm.deb
+Size: 32126
+MD5sum: a69ab1441fb8583b63129e2934df4bc4
+SHA1: e60f53979c3d167e60ba411b50e68d3fb76c4914
+SHA256: add3b545e6ffa0a26ef04c789ffa55d7e349d5e5062c04af1c0e86b0a378eeb2
 
 
 Package: com.hius.gesturesi11vn
@@ -152,7 +152,7 @@ SHA256: 28435805b03732fd1b65653bfd743dc2d2e7b385ea4dd9f8dd0bd50fdc390c22
 
 Package: com.hius.gesturesi11vn
 Name: Gesturesi11 VN
-Version: 2020.10.02
+Version: 2020.10.03
 Architecture: iphoneos-arm
 Description: Cử chỉ hiện đại, nhẹ và ít hao pin.
 Maintainer: Hius <h.h.haiduog@gmail.com>
@@ -162,11 +162,11 @@ Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.little
 Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Prefs/Resources/icon%402x.png
 Depiction: https://cypous.github.io/depictions/web/?p=com.hius.gesturesi11vn
 SileoDepiction: https://cypous.github.io/depictions/native/com.hius.gesturesi11vn/depiction.json
-Filename: debs/com.hius.gesturesi11vn_2020.10.02_iphoneos-arm.deb
-Size: 32186
-MD5sum: 735164f6ac96846a3649b9ed491d351c
-SHA1: 4d48334dd397afd0b3592528734ab42a58fe291d
-SHA256: 6ec8db82fd369f2589cd10e755bfe5c1a58d37234fe49f914c4e7638086c055c
+Filename: debs/com.hius.gesturesi11vn_2020.10.03_iphoneos-arm.deb
+Size: 32086
+MD5sum: 0a5f22ea77779f7acc127e2c2b8cf5e2
+SHA1: d58d4a0c1c491b43ea758e53e6582942e7b333ae
+SHA256: 538d9e15df7cfb31911fcaaaac9e5cde9f74999bbc321678d179ca98b4e77da4
 
 
 Package: com.hius.simplex
