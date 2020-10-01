@@ -34,7 +34,6 @@
 	<screenshots>
 	</screenshots>
 	<changelog>
-		<change>V3.6.2</change>
 		<change>Fix freeze in settings new wallpaper.</change>
 		<change>Fix status bar default.</change>
 		<change>Others...</change>
