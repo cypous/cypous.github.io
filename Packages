@@ -19,7 +19,7 @@ SHA256: 175a21cb8408d903f5a296c62ecba9c6c4a260cfde6ac4f5bedc080386b3a5b4
 Package: com.hius.halfipad
 Name: HalFiPad
 Depends: mobilesubstrate, preferenceloader, firmware(>=13.0)
-Version: 3.7.6
+Version: 3.8.0
 Architecture: iphoneos-arm
 Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
 Maintainer: Hius <h.h.haiduog@gmail.com>
@@ -29,11 +29,11 @@ Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.little
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
 Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipad
 SileoDepiction: https://cypous.github.io/depictions/native/com.hius.halfipad/depiction.json
-Filename: debs/com.hius.halfipad_3.7.6_iphoneos-arm.deb
-Size: 65610
-MD5sum: 70063f1ab8c0cc03b4cc8c75ef81a12b
-SHA1: aa5899fee23a7a64c29ae50623e66b5ab39c0d75
-SHA256: f805222bfd26c85af9b347e662ef5fa5aba91d5d961c670e25731faeb5b668d1
+Filename: debs/com.hius.halfipad_3.8.0_iphoneos-arm.deb
+Size: 63044
+MD5sum: 8610874e9aed81c1f6c084d7c90bdb71
+SHA1: c353f72e0b1ffb34a069d3600711d1a7dbcd7a7e
+SHA256: 8e2745b280df6d8c9c7936c6da2cd043ff6758ca4f12784a6ae9fae5cbb194ad
 
 
 Package: com.hius.halfipad
