@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>3.8.1</version>
+		<change>Fix icons on the home screen for iOS 14.</change>
+		<change>Fix some bugs.</change>
+	</changes>
+	<changes>
 		<version>3.7.6</version>
 		<change>Fix freeze.</change>
 	</changes>
