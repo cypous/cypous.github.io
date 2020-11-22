@@ -1,7 +1,7 @@
 Package: com.hius.iproxiv
 Name: iProxiv
 Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain. Only compatible with iOS 14
 Maintainer: Hius <h.h.haiduog@gmail.com>
@@ -9,17 +9,17 @@ Author: Hius <h.h.haiduog@gmail.com>
 Section: Tweaks
 Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn, com.hius.halfipad
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
-Filename: debs/com.hius.iproxiv_1.0.1_iphoneos-arm.deb
-Size: 61090
-MD5sum: 273fcd21fb766cfc18478e260f35dd5b
-SHA1: bc56b75aecfa0a7b2257ae5570d5b8d0114119c9
-SHA256: 22d0832f7f5fd5260d16f80c18d61b087834fec3668a3e152c5dbbe06b4e3419
+Filename: debs/com.hius.iproxiv_1.0.2_iphoneos-arm.deb
+Size: 61462
+MD5sum: 19422147278f43f7099b50edca5f2fe7
+SHA1: baf2071498a727ec74647f2878068027df211e2e
+SHA256: d06cb2841a6c4898d8dce9e9cb9be391da2a14eab382e1599ac045ce883983a1
 
 
 Package: com.hius.halfipad
 Name: HalFiPad
 Depends: mobilesubstrate, preferenceloader, firmware(>=13.0)
-Version: 3.8.1
+Version: 3.8.2
 Architecture: iphoneos-arm
 Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
 Maintainer: Hius <h.h.haiduog@gmail.com>
@@ -29,11 +29,11 @@ Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.little
 Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
 Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipad
 SileoDepiction: https://cypous.github.io/depictions/native/com.hius.halfipad/depiction.json
-Filename: debs/com.hius.halfipad_3.8.1_iphoneos-arm.deb
-Size: 62590
-MD5sum: be40275156d978cab1c9a3e7375444a9
-SHA1: 707b3efc5d93a452f07d5be05c97b3e14ed9ae0b
-SHA256: 9cb521434a3d5af799887226cd726a4d72604384186c4857dce92d4bad5c7e65
+Filename: debs/com.hius.halfipad_3.8.2_iphoneos-arm.deb
+Size: 62744
+MD5sum: 74d7d0f6e89edd53a5d754ace2741f03
+SHA1: 97ee3cbe7c7f7b471a298792054375b866cad0a7
+SHA256: 995a57af1d4ca007c4efda4a926e899efab4905f496a054ea0a733537ee732cf
 
 
 Package: com.hius.halfipad
@@ -136,7 +136,7 @@ SHA256: c2c552801c8ab226113b569318dfb936f36a055ec10266cbd76719fe05518e76
 
 Package: com.hius.gesturesi11
 Name: Gesturesi11
-Version: 3.6.5
+Version: 3.6.6
 Architecture: iphoneos-arm
 Description: Modern gestures, lightweight and less battery drain.
 Maintainer: Hius <h.h.haiduog@gmail.com>
@@ -146,11 +146,11 @@ Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.little
 Icon: https://raw.githubusercontent.com/v-hius/Gesturesi11/master/Gesturesi11Prefs/Resources/icon%402x.png
 Depiction: https://cypous.github.io/depictions/web/?p=com.hius.gesturesi11
 SileoDepiction: https://cypous.github.io/depictions/native/com.hius.gesturesi11/depiction.json
-Filename: debs/com.hius.gesturesi11_3.6.5_iphoneos-arm.deb
-Size: 29214
-MD5sum: af5b728a9b320b4b870a2282cd9f5552
-SHA1: 4c29fab36591450d957471125f686443ead781a4
-SHA256: 36a0a5c22e867d991fa288fb1c9c369ccc230449e7841e2cbaf5cd27b707c04e
+Filename: debs/com.hius.gesturesi11_3.6.6_iphoneos-arm.deb
+Size: 29198
+MD5sum: 19d924310ca39d3b5c781ece0eaf1cf1
+SHA1: 428119411251d878848732230de91e94e3ad6ed5
+SHA256: ccbb711caf8f6adfa38bf2d80619122f15f221e1dd1b1813234965a53a2fdfb6
 
 
 Package: com.hius.gesturesi11vn
