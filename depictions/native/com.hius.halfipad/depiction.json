@@ -57,12 +57,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.8.1",
+                    "text": "3.8.3",
                     "title": "Version"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "11-17-2020",
+                    "text": "12-09-2020",
                     "title": "Released"
                 },
                 {
